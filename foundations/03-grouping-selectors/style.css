@@ -1,15 +1,29 @@
 /* style.css */
 
+.yesclick, .noclick {
+    
+    font-family: Helvetica, "Times New Roman", 'sans-serif'; 
+
+   
+    font-size: 28px;
+
+    
+}
+
 .yesclick {
     
     color: white;
     
     background-color:black;
+
+    
     
 }
 
 .noclick {
 
     background-color: yellow ;
+
+    
 
 }
